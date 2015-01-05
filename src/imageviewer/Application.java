@@ -1,13 +1,13 @@
-package imagebrowser;
+package imageviewer;
 
-import imagebrowser.control.Command;
-import imagebrowser.control.NextImageCommand;
-import imagebrowser.control.PrevImageCommand;
-import imagebrowser.ui.swing.ApplicationFrame;
-import imagebrowser.model.Image;
-import imagebrowser.persistence.ImageListLoader;
-import imagebrowser.persistence.file.FileImageListLoader;
-import imagebrowser.ui.swing.ActionListenerFactory;
+import imageviewer.control.Command;
+import imageviewer.control.NextImageCommand;
+import imageviewer.control.PrevImageCommand;
+import imageviewer.ui.swing.ApplicationFrame;
+import imageviewer.model.Image;
+import imageviewer.persistence.ImageListLoader;
+import imageviewer.persistence.file.FileImageListLoader;
+import imageviewer.ui.swing.ActionListenerFactory;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.HashMap;

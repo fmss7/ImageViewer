@@ -1,6 +1,6 @@
-package imagebrowser.persistence;
+package imageviewer.persistence;
 
-import imagebrowser.model.Image;
+import imageviewer.model.Image;
 import java.util.List;
 
 public abstract class ImageListLoader {

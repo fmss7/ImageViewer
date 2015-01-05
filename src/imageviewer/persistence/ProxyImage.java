@@ -1,7 +1,7 @@
-package imagebrowser.persistence;
+package imageviewer.persistence;
 
-import imagebrowser.model.Bitmap;
-import imagebrowser.model.Image;
+import imageviewer.model.Bitmap;
+import imageviewer.model.Image;
 
 public class ProxyImage extends Image {
     

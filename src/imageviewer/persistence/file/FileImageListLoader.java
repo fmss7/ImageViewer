@@ -1,8 +1,8 @@
-package imagebrowser.persistence.file;
+package imageviewer.persistence.file;
 
-import imagebrowser.model.Image;
-import imagebrowser.persistence.ImageListLoader;
-import imagebrowser.persistence.ProxyImage;
+import imageviewer.model.Image;
+import imageviewer.persistence.ImageListLoader;
+import imageviewer.persistence.ProxyImage;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;

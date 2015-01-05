@@ -1,7 +1,7 @@
-package imagebrowser.ui.swing;
+package imageviewer.ui.swing;
 
-import imagebrowser.model.Image;
-import imagebrowser.ui.ImageViewer;
+import imageviewer.model.Image;
+import imageviewer.ui.ImageViewer;
 import java.awt.Graphics;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;

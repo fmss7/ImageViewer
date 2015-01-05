@@ -1,9 +1,9 @@
-package imagebrowser.persistence.file;
+package imageviewer.persistence.file;
 
-import imagebrowser.model.Image;
-import imagebrowser.model.RealImage;
-import imagebrowser.persistence.ImageLoader;
-import imagebrowser.ui.swing.SwingBitmap;
+import imageviewer.model.Image;
+import imageviewer.model.RealImage;
+import imageviewer.persistence.ImageLoader;
+import imageviewer.ui.swing.SwingBitmap;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package imagebrowser.ui.swing;
+package imageviewer.ui.swing;
 
 import java.awt.event.ActionListener;
 

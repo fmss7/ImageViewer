@@ -1,6 +1,6 @@
-package imagebrowser.ui.swing;
+package imageviewer.ui.swing;
 
-import imagebrowser.ui.ImageViewer;
+import imageviewer.ui.ImageViewer;
 import java.awt.BorderLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;

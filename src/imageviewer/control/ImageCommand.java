@@ -1,6 +1,6 @@
-package imagebrowser.control;
+package imageviewer.control;
 
-import imagebrowser.ui.ImageViewer;
+import imageviewer.ui.ImageViewer;
 
 public abstract class ImageCommand implements Command {
 
